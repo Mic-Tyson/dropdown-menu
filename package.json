@@ -1,5 +1,5 @@
 {
-  "name": "dropdown-menu",
+  "name": "@mic-tyson/dropdown-menu",
   "version": "1.0.0",
   "description": "A simple, reusable dropdown menu component that you can easily integrate into your web applications. This dropdown menu supports dynamic button creation with customizable labels and callback functions.",
   "main": "dropdownMenu.js",
